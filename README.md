@@ -14,7 +14,7 @@ I am currently dedicated to a **Technical Deep Reset**, mastering the core princ
 * **[cpp-notebook]:** Deconstructing Systems Internals. A comprehensive engineering log focused on **C++ memory manipulation, pointer arithmetic, and low-level architecture**. Building the exact primitives required for advanced offensive security and exploit development.
     * **Stack:** `C++20` • `GDB/Valgrind` • `CMake` • `Linux Systems Programming`
 
-* **students-degree-processing:** An **enterprise-grade** REST API engineered with Java 21 and Spring Boot. Built on **Hexagonal Architecture (Ports & Adapters)** with a strict zero-trust security model, custom stateless JWT authentication, and deep ORM optimization to prevent N+1 query bottlenecks.
+* **[students-degree-processing]:** An **enterprise-grade** REST API engineered with Java 21 and Spring Boot. Built on **Hexagonal Architecture (Ports & Adapters)** with a strict zero-trust security model, custom stateless JWT authentication, and deep ORM optimization to prevent N+1 query bottlenecks.
     * **Stack:** `Java 21` • `Spring Boot 3.x` • `PostgreSQL` 
 
 

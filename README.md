@@ -20,9 +20,9 @@ I am currently dedicated to a **Technical Deep Reset**, mastering the core princ
 
 ### 🛠 Technical Focus
 
-* **Systems & Low-Level:** C++, C, Memory Safety, Performance Optimization.
-* **Logic & AI:** Reinforcement Learning, Neural Networks, Evo Algorithms.
-* **Workflow:** Git, Linux (Debian/Arch), Documentation-as-Code.
+* **Systems & Security:** `C++20` | `Python` | `SQL`. Focus on Memory Safety, Performance Optimization, and System Internals.
+* **Logic & AI:** Reinforcement Learning ($Q(s, a)$ optimization), Evolutionary Computation, Neural Networks.
+* **Workflow:** `Linux` | `Git` | `Shell Scripting` | Documentation-as-Code.
 
 ### 📈 Activity Overview
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnazinu&layout=compact&theme=dark)

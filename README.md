@@ -21,7 +21,7 @@ I am currently dedicated to a **Technical Deep Reset**, mastering the core princ
 ### 🛠 Technical Focus
 
 * **Systems & Security:** `C++20` | `Python` | `SQL`. Focus on Memory Safety, Performance Optimization, and System Internals.
-* **Logic & AI:** Reinforcement Learning ($Q(s, a)$ optimization), Evolutionary Computation, Neural Networks.
+* **Logic & AI:** Reinforcement Learning, Evo Algorithms, Neural Networks.
 * **Workflow:** `Linux` | `Git` | `Shell Scripting` | Documentation-as-Code.
 
 ### 📈 Activity Overview

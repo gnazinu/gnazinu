@@ -1,6 +1,6 @@
 <div align="center">
 
-# luis barragan · gnazinu
+# luis barragan 
 
 `software engineering student` · `mx`
 
@@ -54,7 +54,6 @@ An **enterprise-grade** REST API engineered with Java 21 and Spring Boot. Built 
 ---
 
 <div align="center">
-### Connect with me:
   
 [linkedin](https://www.linkedin.com/in/6arragan/) · [email](mailto:nbaarragan@gmail.com)
 

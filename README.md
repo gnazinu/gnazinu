@@ -1,35 +1,71 @@
-# Hi, This is Luis Barragan (gnazinu) 👋
+<div align="center">
 
-### Software Engineering Student | Focused on Cybersecurity, Low-Level Systems & AI/ML
+# luis barragan · gnazinu
 
-I am currently dedicated to a **Technical Deep Reset**, mastering the core principles of computation through two main pillars: low-level systems architecture and the logic behind artificial intelligence.
+`software engineering student` · `mx`
 
----
-
-### 🚀 What I'm Working On
-
-* **[SnifferNHI]:** Engineered for the Blind Spot of the Cloud. A graph-based security orchestrator targeting **Non-Human Identity (NHI) sprawl, transitive privilege escalation, and operational blast radius**. Beyond static scanning, it integrates **Human-in-the-loop (HITL) semantic validation** to deliver high-fidelity remediation plans.
-    * **Stack:** `Python` • `NetworkX (Graph Theory)` • `Cloud SDKs (AWS/GCP)` • `Security Orchestration`
-
-* **[cpp-notebook]:** Deconstructing Systems Internals. A comprehensive engineering log focused on **C++ memory manipulation, pointer arithmetic, and low-level architecture**. Building the exact primitives required for advanced offensive security and exploit development.
-    * **Stack:** `C++20` • `GDB/Valgrind` • `CMake` • `Linux Systems Programming`
-
-* **[students-degree-processing]:** An **enterprise-grade** REST API engineered with Java 21 and Spring Boot. Built on **Hexagonal Architecture (Ports & Adapters)** with a strict zero-trust security model, custom stateless JWT authentication, and deep ORM optimization to prevent N+1 query bottlenecks.
-    * **Stack:** `Java 21` • `Spring Boot 3.x` • `PostgreSQL` 
-
-
-### 🛠 Technical Focus
-
-* **Systems & Security:** `C++20` | `Python` | `SQL`. Focus on Memory Safety, Performance Optimization, and System Internals.
-* **Logic & AI:** Reinforcement Learning, Evo Algorithms, Neural Networks.
-* **Workflow:** `Linux` | `Git` | `Shell Scripting` | Documentation-as-Code.
-
-### 📈 Activity Overview
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gnazinu&layout=compact&theme=dark)
+</div>
 
 ---
 
-### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/6arragan/) | [Email](mailto:nbaarragan@gmail.com)
+> i like to go deep on systems. competitive programmer passionate, security engineer in the making, and quietly prepping for ml/ai infra.
+> i care about how things actually work under the hood.
 
-*"If you can imagine it, you can code it."*
+---
+
+### projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[sniffernhi]()**
+graph-based orchestrator targeting NHI sprawl and privilege escalation in cloud environments. includes human-in-the-loop validation for remediation.
+
+`Python` `NetworkX` `AWS` `GCP`
+
+</td>
+<td width="50%" valign="top">
+
+**[cpp-notebook]()**
+engineering log of systems internals — memory layout, pointer arithmetic, low-level arch. built to close the gap between writing C++ and *understanding* it.
+
+`C++20` `GDB` `Valgrind` `Linux`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+**[students-degree-processing]()**
+REST API on hexagonal architecture with stateless JWT auth and N+1 query optimization. focused on getting the architecture right, not just the feature.
+
+`Java 21` `Spring Boot 3` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+### trajectory
+● right now      →  competitive programming
+algorithms as a discipline. thinking before coding.
+● mid/long term  →  cybersecurity
+offensive sec, exploit dev, systems hardening.
+○ approaching    →  ml / ai infra
+training pipelines, distributed systems, model serving.
+
+---
+
+### stack
+
+`C++20` `Python` `SQL` `Linux` `Git` `Shell`
+
+---
+
+<div align="center">
+
+[linkedin](https://www.linkedin.com/in/6arragan/) · [email](mailto:nbaarragan@gmail.com)
+
+</div>

@@ -1,11 +1,11 @@
 # Hi, I'm Luis Barragán (gnazinu) 👋
 
-`Software Engineering Student` · `Backend & Cloud Infra` · `Mexico`
+`Computer Engineering Student` · `Cloud Security & Backend Infrastructure` · `Mexico`
 
 ---
 
-I build scalable backend systems, automate workflows, and enjoy studying algorithmic efficiency. 
-Currently a 6th-semester student, **ICPC National Finalist**, and transitioning from competitive programming to Cloud infrastructure and AI integrations.
+I build scalable systems and research cloud security vulnerabilities.
+Currently transitioning from competitive programming to Cloud Security Engineering with a focus on Kubernetes environments.
 
 ---
 
@@ -34,8 +34,8 @@ Currently a 6th-semester student, **ICPC National Finalist**, and transitioning 
 
 * **Core Languages:** Python (Daily driver & Backend), SQL
 * **Algorithms & Competitions:** C++ (ICPC / DSA Focus)
-* **Tools & Infra:** Git, Linux, Docker, AWS (Basic)
-* **Concepts:** RESTful APIs, System Design, Graph Theory
+* **Infra & Security:** Linux, Git, Docker, Kubernetes (Learning), AWS (In progress)
+* **Concepts:** API Design, Graph Theory, System Security, DSA
 
 ---
 

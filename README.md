@@ -1,38 +1,43 @@
-# Hi, This is Luis Barragan (gnazinu) 👋
+# Hi, I'm Luis Barragán (gnazinu) 👋
 
-`software engineering student` · `mx`
-
----
-
-> i go deep on systems. competitive programmer passionate, security engineer in the making, and quietly prepping for ml/ai infra.
-> i care about how things actually work under the hood.
+`Software Engineering Student` · `Backend & Cloud Infra` · `Mexico`
 
 ---
 
-### 🚀 What I'm Working On
+I build scalable backend systems, automate workflows, and enjoy studying algorithmic efficiency. 
+Currently a 6th-semester student, **ICPC National Finalist**, and transitioning from competitive programming to Cloud infrastructure and AI integrations.
 
+---
 
-* **[SnifferNHI]:** Engineered for the Blind Spot of the Cloud. A graph-based security orchestrator targeting **Non-Human Identity (NHI) sprawl, transitive privilege escalation, and operational blast radius**. Beyond static scanning, it integrates **Human-in-the-loop (HITL) semantic validation** to deliver high-fidelity remediation plans.
-    * **Stack:** Python • NetworkX (Graph Theory) • Cloud SDKs (AWS/GCP) • Security Orchestration
+### 🚀 Technical Highlights & Projects
 
- 
-* **[cpp-notebook]:** Deconstructing Systems Internals. A comprehensive engineering log focused on **C++ memory manipulation, pointer arithmetic, and low-level architecture**. Building the exact primitives required for advanced offensive security and exploit development.
-    * **Stack:** C++20 • GDB/Valgrind • CMake • Linux Systems Programming
-   
-      
-* **[students-degree-processing]:** An **enterprise-grade** REST API engineered with Java 21 and Spring Boot. Built on **Hexagonal Architecture (Ports & Adapters)** with a strict zero-trust security model, custom stateless JWT authentication, and deep ORM optimization to prevent N+1 query bottlenecks.
-    * **Stack:** Java 21 • Spring Boot 3.x • PostgreSQL
- 
-      
+* **[EVONHI] — Cloud Security & Graph Theory**
+  A security orchestrator that maps Non-Human Identity (NHI) sprawl and transitive privilege escalation in cloud environments. 
+  * **Achievement:** Co-authored a technical paper on AST and Regex for markup parsing based on related research, currently under review for the **CITCA Journal**.
+  * **Stack:** Python • NetworkX • Cloud SDKs (AWS/GCP) 
+
+* **[students-degree-processing] — Core Backend Architecture**
+  A REST API built for processing academic degrees using Hexagonal Architecture (Ports & Adapters). Focused on strict data validation, stateless JWT auth, and solving N+1 database bottlenecks.
+  * **Stack:** Java 21 • Spring Boot 3 • PostgreSQL
+
+* **[agency-automations] — Applied AI & Productized Services** 
+  Development of real-world automation scripts for businesses. Includes a system that generates social media calendars, parses context, and queues posts using LLM APIs to reduce operational overhead for local clients.
+  * **Stack:** Python • Prompt Engineering • 3rd Party APIs
+
+* **[dsa-and-competitive-programming]** 
+  My personal vault for algorithmic problem-solving. Contains my historical code for the **ICPC National Finals** and my current daily training logs (LeetCode/Codefores) focusing on logic structures without AI assistance.
+  * **Stack:** C++ (Historical) / Python (Current)
+
+---
+
 ### 🛠 Tech Stack
 
-`C++20` `Python` `SQL` `Linux` `Git` 
-
+* **Core Languages:** Python (Daily driver & Backend), SQL
+* **Algorithms & Competitions:** C++ (ICPC / DSA Focus)
+* **Tools & Infra:** Git, Linux, Docker, AWS (Basic)
+* **Concepts:** RESTful APIs, System Design, Graph Theory
 
 ---
 
 ### 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/6arragan/) | [Email](mailto:nbaarragan@gmail.com)
-
-
-*"If you can imagine it, you can code it."*
+[LinkedIn](https://www.linkedin.com/in/6arragan/) | [Email](mailto:techgnazinu@gmail.com)

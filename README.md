@@ -1,6 +1,7 @@
 # Luis Barragán
 
-`gnazinu` · Computer Engineering Student @ Universidad de Colima
+Computer Engineering Student @ Universidad de Colima
+
 Cloud Security · Backend Infrastructure
 
 > I map the paths an attacker would take through a system — before they do.

@@ -21,6 +21,7 @@ My work sits between graph theory and security: modeling how privilege moves, es
 ## Stack
 
 Python · SQL · C++ · Go
+
 Kubernetes · Docker · AWS · Linux
 
 ## Elsewhere

@@ -9,8 +9,6 @@ I work in that room.
 
 ---
 
-ICPC Mexico National Finalist · Expert on Codeforces
-
 Sometimes poetry, other times security rabbit holes, and more unread AI papers than finished ones.
 
 ---
